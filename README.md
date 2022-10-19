@@ -1,1 +1,1 @@
-# my_odoo
+# my_odoo2
